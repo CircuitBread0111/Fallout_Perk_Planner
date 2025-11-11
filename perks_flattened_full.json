@@ -1,0 +1,1890 @@
+[
+  {
+    "perk": "Iron Fist",
+    "rank": 1,
+    "special": {
+      "S": 1
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Iron Fist",
+    "rank": 2,
+    "special": {
+      "S": 1
+    },
+    "min_level": 9
+  },
+  {
+    "perk": "Iron Fist",
+    "rank": 3,
+    "special": {
+      "S": 1
+    },
+    "min_level": 18
+  },
+  {
+    "perk": "Iron Fist",
+    "rank": 4,
+    "special": {
+      "S": 1
+    },
+    "min_level": 31
+  },
+  {
+    "perk": "Iron Fist",
+    "rank": 5,
+    "special": {
+      "S": 1
+    },
+    "min_level": 46
+  },
+  {
+    "perk": "Big Leagues",
+    "rank": 1,
+    "special": {
+      "S": 1
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Big Leagues",
+    "rank": 2,
+    "special": {
+      "S": 1
+    },
+    "min_level": 7
+  },
+  {
+    "perk": "Big Leagues",
+    "rank": 3,
+    "special": {
+      "S": 1
+    },
+    "min_level": 15
+  },
+  {
+    "perk": "Big Leagues",
+    "rank": 4,
+    "special": {
+      "S": 1
+    },
+    "min_level": 27
+  },
+  {
+    "perk": "Big Leagues",
+    "rank": 5,
+    "special": {
+      "S": 1
+    },
+    "min_level": 42
+  },
+  {
+    "perk": "Armorer",
+    "rank": 1,
+    "special": {
+      "S": 1
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Armorer",
+    "rank": 2,
+    "special": {
+      "S": 1
+    },
+    "min_level": 13
+  },
+  {
+    "perk": "Armorer",
+    "rank": 3,
+    "special": {
+      "S": 1
+    },
+    "min_level": 25
+  },
+  {
+    "perk": "Armorer",
+    "rank": 4,
+    "special": {
+      "S": 1
+    },
+    "min_level": 39
+  },
+  {
+    "perk": "Blacksmith",
+    "rank": 1,
+    "special": {
+      "S": 1
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Blacksmith",
+    "rank": 2,
+    "special": {
+      "S": 1
+    },
+    "min_level": 16
+  },
+  {
+    "perk": "Blacksmith",
+    "rank": 3,
+    "special": {
+      "S": 1
+    },
+    "min_level": 29
+  },
+  {
+    "perk": "Heavy Gunner",
+    "rank": 1,
+    "special": {
+      "S": 1
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Heavy Gunner",
+    "rank": 2,
+    "special": {
+      "S": 1
+    },
+    "min_level": 11
+  },
+  {
+    "perk": "Heavy Gunner",
+    "rank": 3,
+    "special": {
+      "S": 1
+    },
+    "min_level": 21
+  },
+  {
+    "perk": "Heavy Gunner",
+    "rank": 4,
+    "special": {
+      "S": 1
+    },
+    "min_level": 35
+  },
+  {
+    "perk": "Heavy Gunner",
+    "rank": 5,
+    "special": {
+      "S": 1
+    },
+    "min_level": 47
+  },
+  {
+    "perk": "Strong Back",
+    "rank": 1,
+    "special": {
+      "S": 1
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Strong Back",
+    "rank": 2,
+    "special": {
+      "S": 1
+    },
+    "min_level": 10
+  },
+  {
+    "perk": "Strong Back",
+    "rank": 3,
+    "special": {
+      "S": 1
+    },
+    "min_level": 20
+  },
+  {
+    "perk": "Strong Back",
+    "rank": 4,
+    "special": {
+      "S": 1
+    },
+    "min_level": 30
+  },
+  {
+    "perk": "Strong Back",
+    "rank": 5,
+    "special": {
+      "S": 1
+    },
+    "min_level": 40
+  },
+  {
+    "perk": "Steady Aim",
+    "rank": 1,
+    "special": {
+      "S": 1
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Steady Aim",
+    "rank": 2,
+    "special": {
+      "S": 1
+    },
+    "min_level": 28
+  },
+  {
+    "perk": "Steady Aim",
+    "rank": 3,
+    "special": {
+      "S": 1
+    },
+    "min_level": 49
+  },
+  {
+    "perk": "Basher",
+    "rank": 1,
+    "special": {
+      "S": 1
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Basher",
+    "rank": 2,
+    "special": {
+      "S": 1
+    },
+    "min_level": 5
+  },
+  {
+    "perk": "Basher",
+    "rank": 3,
+    "special": {
+      "S": 1
+    },
+    "min_level": 14
+  },
+  {
+    "perk": "Basher",
+    "rank": 4,
+    "special": {
+      "S": 1
+    },
+    "min_level": 26
+  },
+  {
+    "perk": "Rooted",
+    "rank": 1,
+    "special": {
+      "S": 1
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Rooted",
+    "rank": 2,
+    "special": {
+      "S": 1
+    },
+    "min_level": 22
+  },
+  {
+    "perk": "Rooted",
+    "rank": 3,
+    "special": {
+      "S": 1
+    },
+    "min_level": 43
+  },
+  {
+    "perk": "Pain Train",
+    "rank": 1,
+    "special": {
+      "S": 1
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Pain Train",
+    "rank": 2,
+    "special": {
+      "S": 1
+    },
+    "min_level": 24
+  },
+  {
+    "perk": "Pain Train",
+    "rank": 3,
+    "special": {
+      "S": 1
+    },
+    "min_level": 50
+  },
+  {
+    "perk": "Pickpocket",
+    "rank": 1,
+    "special": {
+      "P": 2
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Pickpocket",
+    "rank": 2,
+    "special": {
+      "P": 2
+    },
+    "min_level": 6
+  },
+  {
+    "perk": "Pickpocket",
+    "rank": 3,
+    "special": {
+      "P": 2
+    },
+    "min_level": 17
+  },
+  {
+    "perk": "Pickpocket",
+    "rank": 4,
+    "special": {
+      "P": 2
+    },
+    "min_level": 30
+  },
+  {
+    "perk": "Rifleman",
+    "rank": 1,
+    "special": {
+      "P": 2
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Rifleman",
+    "rank": 2,
+    "special": {
+      "P": 2
+    },
+    "min_level": 9
+  },
+  {
+    "perk": "Rifleman",
+    "rank": 3,
+    "special": {
+      "P": 2
+    },
+    "min_level": 18
+  },
+  {
+    "perk": "Rifleman",
+    "rank": 4,
+    "special": {
+      "P": 2
+    },
+    "min_level": 31
+  },
+  {
+    "perk": "Rifleman",
+    "rank": 5,
+    "special": {
+      "P": 2
+    },
+    "min_level": 46
+  },
+  {
+    "perk": "Awareness",
+    "rank": 1,
+    "special": {
+      "P": 2
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Locksmith",
+    "rank": 1,
+    "special": {
+      "P": 2
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Locksmith",
+    "rank": 2,
+    "special": {
+      "P": 2
+    },
+    "min_level": 7
+  },
+  {
+    "perk": "Locksmith",
+    "rank": 3,
+    "special": {
+      "P": 2
+    },
+    "min_level": 18
+  },
+  {
+    "perk": "Locksmith",
+    "rank": 4,
+    "special": {
+      "P": 2
+    },
+    "min_level": 41
+  },
+  {
+    "perk": "Demolition Expert",
+    "rank": 1,
+    "special": {
+      "P": 2
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Demolition Expert",
+    "rank": 2,
+    "special": {
+      "P": 2
+    },
+    "min_level": 10
+  },
+  {
+    "perk": "Demolition Expert",
+    "rank": 3,
+    "special": {
+      "P": 2
+    },
+    "min_level": 22
+  },
+  {
+    "perk": "Demolition Expert",
+    "rank": 4,
+    "special": {
+      "P": 2
+    },
+    "min_level": 34
+  },
+  {
+    "perk": "Night Person",
+    "rank": 1,
+    "special": {
+      "P": 2
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Night Person",
+    "rank": 2,
+    "special": {
+      "P": 2
+    },
+    "min_level": 25
+  },
+  {
+    "perk": "Night Person",
+    "rank": 3,
+    "special": {
+      "P": 2
+    },
+    "min_level": 37
+  },
+  {
+    "perk": "Refractor",
+    "rank": 1,
+    "special": {
+      "P": 2
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Refractor",
+    "rank": 2,
+    "special": {
+      "P": 2
+    },
+    "min_level": 11
+  },
+  {
+    "perk": "Refractor",
+    "rank": 3,
+    "special": {
+      "P": 2
+    },
+    "min_level": 22
+  },
+  {
+    "perk": "Refractor",
+    "rank": 4,
+    "special": {
+      "P": 2
+    },
+    "min_level": 35
+  },
+  {
+    "perk": "Refractor",
+    "rank": 5,
+    "special": {
+      "P": 2
+    },
+    "min_level": 42
+  },
+  {
+    "perk": "Sniper",
+    "rank": 1,
+    "special": {
+      "P": 2
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Sniper",
+    "rank": 2,
+    "special": {
+      "P": 2
+    },
+    "min_level": 13
+  },
+  {
+    "perk": "Sniper",
+    "rank": 3,
+    "special": {
+      "P": 2
+    },
+    "min_level": 26
+  },
+  {
+    "perk": "Penetrator",
+    "rank": 1,
+    "special": {
+      "P": 2
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Penetrator",
+    "rank": 2,
+    "special": {
+      "P": 2
+    },
+    "min_level": 28
+  },
+  {
+    "perk": "Concentrated Fire",
+    "rank": 1,
+    "special": {
+      "P": 2
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Concentrated Fire",
+    "rank": 2,
+    "special": {
+      "P": 2
+    },
+    "min_level": 26
+  },
+  {
+    "perk": "Concentrated Fire",
+    "rank": 3,
+    "special": {
+      "P": 2
+    },
+    "min_level": 50
+  },
+  {
+    "perk": "Toughness",
+    "rank": 1,
+    "special": {
+      "E": 3
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Toughness",
+    "rank": 2,
+    "special": {
+      "E": 3
+    },
+    "min_level": 9
+  },
+  {
+    "perk": "Toughness",
+    "rank": 3,
+    "special": {
+      "E": 3
+    },
+    "min_level": 18
+  },
+  {
+    "perk": "Toughness",
+    "rank": 4,
+    "special": {
+      "E": 3
+    },
+    "min_level": 31
+  },
+  {
+    "perk": "Toughness",
+    "rank": 5,
+    "special": {
+      "E": 3
+    },
+    "min_level": 46
+  },
+  {
+    "perk": "Lead Belly",
+    "rank": 1,
+    "special": {
+      "E": 3
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Lead Belly",
+    "rank": 2,
+    "special": {
+      "E": 3
+    },
+    "min_level": 6
+  },
+  {
+    "perk": "Lead Belly",
+    "rank": 3,
+    "special": {
+      "E": 3
+    },
+    "min_level": 17
+  },
+  {
+    "perk": "Lifegiver",
+    "rank": 1,
+    "special": {
+      "E": 3
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Lifegiver",
+    "rank": 2,
+    "special": {
+      "E": 3
+    },
+    "min_level": 8
+  },
+  {
+    "perk": "Lifegiver",
+    "rank": 3,
+    "special": {
+      "E": 3
+    },
+    "min_level": 20
+  },
+  {
+    "perk": "Chem Resistant",
+    "rank": 1,
+    "special": {
+      "E": 3
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Chem Resistant",
+    "rank": 2,
+    "special": {
+      "E": 3
+    },
+    "min_level": 22
+  },
+  {
+    "perk": "Aquaboy",
+    "rank": 1,
+    "special": {
+      "E": 3
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Aquaboy",
+    "rank": 2,
+    "special": {
+      "E": 3
+    },
+    "min_level": 21
+  },
+  {
+    "perk": "Rad Resistant",
+    "rank": 1,
+    "special": {
+      "E": 3
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Rad Resistant",
+    "rank": 2,
+    "special": {
+      "E": 3
+    },
+    "min_level": 13
+  },
+  {
+    "perk": "Rad Resistant",
+    "rank": 3,
+    "special": {
+      "E": 3
+    },
+    "min_level": 26
+  },
+  {
+    "perk": "Rad Resistant",
+    "rank": 4,
+    "special": {
+      "E": 3
+    },
+    "min_level": 35
+  },
+  {
+    "perk": "Adamantium Skeleton",
+    "rank": 1,
+    "special": {
+      "E": 3
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Adamantium Skeleton",
+    "rank": 2,
+    "special": {
+      "E": 3
+    },
+    "min_level": 13
+  },
+  {
+    "perk": "Adamantium Skeleton",
+    "rank": 3,
+    "special": {
+      "E": 3
+    },
+    "min_level": 26
+  },
+  {
+    "perk": "Cannibal",
+    "rank": 1,
+    "special": {
+      "E": 3
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Cannibal",
+    "rank": 2,
+    "special": {
+      "E": 3
+    },
+    "min_level": 19
+  },
+  {
+    "perk": "Cannibal",
+    "rank": 3,
+    "special": {
+      "E": 3
+    },
+    "min_level": 38
+  },
+  {
+    "perk": "Ghoulish",
+    "rank": 1,
+    "special": {
+      "E": 3
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Ghoulish",
+    "rank": 2,
+    "special": {
+      "E": 3
+    },
+    "min_level": 24
+  },
+  {
+    "perk": "Ghoulish",
+    "rank": 3,
+    "special": {
+      "E": 3
+    },
+    "min_level": 48
+  },
+  {
+    "perk": "Solar Powered",
+    "rank": 1,
+    "special": {
+      "E": 3
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Solar Powered",
+    "rank": 2,
+    "special": {
+      "E": 3
+    },
+    "min_level": 27
+  },
+  {
+    "perk": "Solar Powered",
+    "rank": 3,
+    "special": {
+      "E": 3
+    },
+    "min_level": 50
+  },
+  {
+    "perk": "Cap Collector",
+    "rank": 1,
+    "special": {
+      "C": 4
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Cap Collector",
+    "rank": 2,
+    "special": {
+      "C": 4
+    },
+    "min_level": 20
+  },
+  {
+    "perk": "Cap Collector",
+    "rank": 3,
+    "special": {
+      "C": 4
+    },
+    "min_level": 41
+  },
+  {
+    "perk": "Lady Killer",
+    "rank": 1,
+    "special": {
+      "C": 4
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Lady Killer",
+    "rank": 2,
+    "special": {
+      "C": 4
+    },
+    "min_level": 7
+  },
+  {
+    "perk": "Lady Killer",
+    "rank": 3,
+    "special": {
+      "C": 4
+    },
+    "min_level": 22
+  },
+  {
+    "perk": "Lone Wanderer",
+    "rank": 1,
+    "special": {
+      "C": 4
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Lone Wanderer",
+    "rank": 2,
+    "special": {
+      "C": 4
+    },
+    "min_level": 17
+  },
+  {
+    "perk": "Lone Wanderer",
+    "rank": 3,
+    "special": {
+      "C": 4
+    },
+    "min_level": 40
+  },
+  {
+    "perk": "Attack Dog",
+    "rank": 1,
+    "special": {
+      "C": 4
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Attack Dog",
+    "rank": 2,
+    "special": {
+      "C": 4
+    },
+    "min_level": 9
+  },
+  {
+    "perk": "Attack Dog",
+    "rank": 3,
+    "special": {
+      "C": 4
+    },
+    "min_level": 25
+  },
+  {
+    "perk": "Attack Dog",
+    "rank": 4,
+    "special": {
+      "C": 4
+    },
+    "min_level": 31
+  },
+  {
+    "perk": "Animal Friend",
+    "rank": 1,
+    "special": {
+      "C": 4
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Animal Friend",
+    "rank": 2,
+    "special": {
+      "C": 4
+    },
+    "min_level": 12
+  },
+  {
+    "perk": "Animal Friend",
+    "rank": 3,
+    "special": {
+      "C": 4
+    },
+    "min_level": 28
+  },
+  {
+    "perk": "Local Leader",
+    "rank": 1,
+    "special": {
+      "C": 4
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Local Leader",
+    "rank": 2,
+    "special": {
+      "C": 4
+    },
+    "min_level": 14
+  },
+  {
+    "perk": "Party Boy",
+    "rank": 1,
+    "special": {
+      "C": 4
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Party Boy",
+    "rank": 2,
+    "special": {
+      "C": 4
+    },
+    "min_level": 22
+  },
+  {
+    "perk": "Party Boy",
+    "rank": 3,
+    "special": {
+      "C": 4
+    },
+    "min_level": 37
+  },
+  {
+    "perk": "Inspirational",
+    "rank": 1,
+    "special": {
+      "C": 4
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Inspirational",
+    "rank": 2,
+    "special": {
+      "C": 4
+    },
+    "min_level": 19
+  },
+  {
+    "perk": "Inspirational",
+    "rank": 3,
+    "special": {
+      "C": 4
+    },
+    "min_level": 43
+  },
+  {
+    "perk": "Wasteland Whisperer",
+    "rank": 1,
+    "special": {
+      "C": 4
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Wasteland Whisperer",
+    "rank": 2,
+    "special": {
+      "C": 4
+    },
+    "min_level": 21
+  },
+  {
+    "perk": "Wasteland Whisperer",
+    "rank": 3,
+    "special": {
+      "C": 4
+    },
+    "min_level": 49
+  },
+  {
+    "perk": "Intimidation",
+    "rank": 1,
+    "special": {
+      "C": 4
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Intimidation",
+    "rank": 2,
+    "special": {
+      "C": 4
+    },
+    "min_level": 23
+  },
+  {
+    "perk": "Intimidation",
+    "rank": 3,
+    "special": {
+      "C": 4
+    },
+    "min_level": 50
+  },
+  {
+    "perk": "V.A.N.S.",
+    "rank": 1,
+    "special": {
+      "I": 5
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "V.A.N.S.",
+    "rank": 2,
+    "special": {
+      "I": 5
+    },
+    "min_level": 10
+  },
+  {
+    "perk": "Medic",
+    "rank": 1,
+    "special": {
+      "I": 5
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Medic",
+    "rank": 2,
+    "special": {
+      "I": 5
+    },
+    "min_level": 18
+  },
+  {
+    "perk": "Medic",
+    "rank": 3,
+    "special": {
+      "I": 5
+    },
+    "min_level": 30
+  },
+  {
+    "perk": "Medic",
+    "rank": 4,
+    "special": {
+      "I": 5
+    },
+    "min_level": 45
+  },
+  {
+    "perk": "Gun Nut",
+    "rank": 1,
+    "special": {
+      "I": 5
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Gun Nut",
+    "rank": 2,
+    "special": {
+      "I": 5
+    },
+    "min_level": 13
+  },
+  {
+    "perk": "Gun Nut",
+    "rank": 3,
+    "special": {
+      "I": 5
+    },
+    "min_level": 25
+  },
+  {
+    "perk": "Gun Nut",
+    "rank": 4,
+    "special": {
+      "I": 5
+    },
+    "min_level": 39
+  },
+  {
+    "perk": "Hacker",
+    "rank": 1,
+    "special": {
+      "I": 5
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Hacker",
+    "rank": 2,
+    "special": {
+      "I": 5
+    },
+    "min_level": 9
+  },
+  {
+    "perk": "Hacker",
+    "rank": 3,
+    "special": {
+      "I": 5
+    },
+    "min_level": 21
+  },
+  {
+    "perk": "Hacker",
+    "rank": 4,
+    "special": {
+      "I": 5
+    },
+    "min_level": 33
+  },
+  {
+    "perk": "Scrapper",
+    "rank": 1,
+    "special": {
+      "I": 5
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Scrapper",
+    "rank": 2,
+    "special": {
+      "I": 5
+    },
+    "min_level": 23
+  },
+  {
+    "perk": "Science!",
+    "rank": 1,
+    "special": {
+      "I": 5
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Science!",
+    "rank": 2,
+    "special": {
+      "I": 5
+    },
+    "min_level": 17
+  },
+  {
+    "perk": "Science!",
+    "rank": 3,
+    "special": {
+      "I": 5
+    },
+    "min_level": 28
+  },
+  {
+    "perk": "Science!",
+    "rank": 4,
+    "special": {
+      "I": 5
+    },
+    "min_level": 41
+  },
+  {
+    "perk": "Chemist",
+    "rank": 1,
+    "special": {
+      "I": 5
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Chemist",
+    "rank": 2,
+    "special": {
+      "I": 5
+    },
+    "min_level": 16
+  },
+  {
+    "perk": "Chemist",
+    "rank": 3,
+    "special": {
+      "I": 5
+    },
+    "min_level": 32
+  },
+  {
+    "perk": "Chemist",
+    "rank": 4,
+    "special": {
+      "I": 5
+    },
+    "min_level": 45
+  },
+  {
+    "perk": "Robotics Expert",
+    "rank": 1,
+    "special": {
+      "I": 5
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Robotics Expert",
+    "rank": 2,
+    "special": {
+      "I": 5
+    },
+    "min_level": 19
+  },
+  {
+    "perk": "Robotics Expert",
+    "rank": 3,
+    "special": {
+      "I": 5
+    },
+    "min_level": 44
+  },
+  {
+    "perk": "Nuclear Physicist",
+    "rank": 1,
+    "special": {
+      "I": 5
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Nuclear Physicist",
+    "rank": 2,
+    "special": {
+      "I": 5
+    },
+    "min_level": 22
+  },
+  {
+    "perk": "Nuclear Physicist",
+    "rank": 3,
+    "special": {
+      "I": 5
+    },
+    "min_level": 41
+  },
+  {
+    "perk": "Nerd Rage!",
+    "rank": 1,
+    "special": {
+      "I": 5
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Nerd Rage!",
+    "rank": 2,
+    "special": {
+      "I": 5
+    },
+    "min_level": 31
+  },
+  {
+    "perk": "Nerd Rage!",
+    "rank": 3,
+    "special": {
+      "I": 5
+    },
+    "min_level": 50
+  },
+  {
+    "perk": "Gunslinger",
+    "rank": 1,
+    "special": {
+      "A": 6
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Gunslinger",
+    "rank": 2,
+    "special": {
+      "A": 6
+    },
+    "min_level": 7
+  },
+  {
+    "perk": "Gunslinger",
+    "rank": 3,
+    "special": {
+      "A": 6
+    },
+    "min_level": 15
+  },
+  {
+    "perk": "Gunslinger",
+    "rank": 4,
+    "special": {
+      "A": 6
+    },
+    "min_level": 27
+  },
+  {
+    "perk": "Gunslinger",
+    "rank": 5,
+    "special": {
+      "A": 6
+    },
+    "min_level": 42
+  },
+  {
+    "perk": "Commando",
+    "rank": 1,
+    "special": {
+      "A": 6
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Commando",
+    "rank": 2,
+    "special": {
+      "A": 6
+    },
+    "min_level": 11
+  },
+  {
+    "perk": "Commando",
+    "rank": 3,
+    "special": {
+      "A": 6
+    },
+    "min_level": 21
+  },
+  {
+    "perk": "Commando",
+    "rank": 4,
+    "special": {
+      "A": 6
+    },
+    "min_level": 35
+  },
+  {
+    "perk": "Commando",
+    "rank": 5,
+    "special": {
+      "A": 6
+    },
+    "min_level": 49
+  },
+  {
+    "perk": "Sneak",
+    "rank": 1,
+    "special": {
+      "A": 6
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Sneak",
+    "rank": 2,
+    "special": {
+      "A": 6
+    },
+    "min_level": 5
+  },
+  {
+    "perk": "Sneak",
+    "rank": 3,
+    "special": {
+      "A": 6
+    },
+    "min_level": 12
+  },
+  {
+    "perk": "Sneak",
+    "rank": 4,
+    "special": {
+      "A": 6
+    },
+    "min_level": 23
+  },
+  {
+    "perk": "Mister Sandman",
+    "rank": 1,
+    "special": {
+      "A": 6
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Mister Sandman",
+    "rank": 2,
+    "special": {
+      "A": 6
+    },
+    "min_level": 17
+  },
+  {
+    "perk": "Mister Sandman",
+    "rank": 3,
+    "special": {
+      "A": 6
+    },
+    "min_level": 30
+  },
+  {
+    "perk": "Action Boy",
+    "rank": 1,
+    "special": {
+      "A": 6
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Action Boy",
+    "rank": 2,
+    "special": {
+      "A": 6
+    },
+    "min_level": 18
+  },
+  {
+    "perk": "Action Boy",
+    "rank": 3,
+    "special": {
+      "A": 6
+    },
+    "min_level": 38
+  },
+  {
+    "perk": "Moving Target",
+    "rank": 1,
+    "special": {
+      "A": 6
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Moving Target",
+    "rank": 2,
+    "special": {
+      "A": 6
+    },
+    "min_level": 24
+  },
+  {
+    "perk": "Moving Target",
+    "rank": 3,
+    "special": {
+      "A": 6
+    },
+    "min_level": 44
+  },
+  {
+    "perk": "Ninja",
+    "rank": 1,
+    "special": {
+      "A": 6
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Ninja",
+    "rank": 2,
+    "special": {
+      "A": 6
+    },
+    "min_level": 16
+  },
+  {
+    "perk": "Ninja",
+    "rank": 3,
+    "special": {
+      "A": 6
+    },
+    "min_level": 33
+  },
+  {
+    "perk": "Quick Hands",
+    "rank": 1,
+    "special": {
+      "A": 6
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Quick Hands",
+    "rank": 2,
+    "special": {
+      "A": 6
+    },
+    "min_level": 21
+  },
+  {
+    "perk": "Quick Hands",
+    "rank": 3,
+    "special": {
+      "A": 6
+    },
+    "min_level": 40
+  },
+  {
+    "perk": "Blitz",
+    "rank": 1,
+    "special": {
+      "A": 6
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Blitz",
+    "rank": 2,
+    "special": {
+      "A": 6
+    },
+    "min_level": 29
+  },
+  {
+    "perk": "Gun Fu",
+    "rank": 1,
+    "special": {
+      "A": 6
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Gun Fu",
+    "rank": 2,
+    "special": {
+      "A": 6
+    },
+    "min_level": 26
+  },
+  {
+    "perk": "Gun Fu",
+    "rank": 3,
+    "special": {
+      "A": 6
+    },
+    "min_level": 50
+  },
+  {
+    "perk": "Fortune Finder",
+    "rank": 1,
+    "special": {
+      "L": 7
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Fortune Finder",
+    "rank": 2,
+    "special": {
+      "L": 7
+    },
+    "min_level": 5
+  },
+  {
+    "perk": "Fortune Finder",
+    "rank": 3,
+    "special": {
+      "L": 7
+    },
+    "min_level": 25
+  },
+  {
+    "perk": "Fortune Finder",
+    "rank": 4,
+    "special": {
+      "L": 7
+    },
+    "min_level": 40
+  },
+  {
+    "perk": "Scrounger",
+    "rank": 1,
+    "special": {
+      "L": 7
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Scrounger",
+    "rank": 2,
+    "special": {
+      "L": 7
+    },
+    "min_level": 7
+  },
+  {
+    "perk": "Scrounger",
+    "rank": 3,
+    "special": {
+      "L": 7
+    },
+    "min_level": 24
+  },
+  {
+    "perk": "Scrounger",
+    "rank": 4,
+    "special": {
+      "L": 7
+    },
+    "min_level": 37
+  },
+  {
+    "perk": "Bloody Mess",
+    "rank": 1,
+    "special": {
+      "L": 7
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Bloody Mess",
+    "rank": 2,
+    "special": {
+      "L": 7
+    },
+    "min_level": 9
+  },
+  {
+    "perk": "Bloody Mess",
+    "rank": 3,
+    "special": {
+      "L": 7
+    },
+    "min_level": 31
+  },
+  {
+    "perk": "Bloody Mess",
+    "rank": 4,
+    "special": {
+      "L": 7
+    },
+    "min_level": 47
+  },
+  {
+    "perk": "Mysterious Stranger",
+    "rank": 1,
+    "special": {
+      "L": 7
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Mysterious Stranger",
+    "rank": 2,
+    "special": {
+      "L": 7
+    },
+    "min_level": 22
+  },
+  {
+    "perk": "Mysterious Stranger",
+    "rank": 3,
+    "special": {
+      "L": 7
+    },
+    "min_level": 41
+  },
+  {
+    "perk": "Idiot Savant",
+    "rank": 1,
+    "special": {
+      "L": 7
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Idiot Savant",
+    "rank": 2,
+    "special": {
+      "L": 7
+    },
+    "min_level": 11
+  },
+  {
+    "perk": "Idiot Savant",
+    "rank": 3,
+    "special": {
+      "L": 7
+    },
+    "min_level": 34
+  },
+  {
+    "perk": "Better Criticals",
+    "rank": 1,
+    "special": {
+      "L": 7
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Better Criticals",
+    "rank": 2,
+    "special": {
+      "L": 7
+    },
+    "min_level": 15
+  },
+  {
+    "perk": "Better Criticals",
+    "rank": 3,
+    "special": {
+      "L": 7
+    },
+    "min_level": 40
+  },
+  {
+    "perk": "Critical Banker",
+    "rank": 1,
+    "special": {
+      "L": 7
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Critical Banker",
+    "rank": 2,
+    "special": {
+      "L": 7
+    },
+    "min_level": 17
+  },
+  {
+    "perk": "Critical Banker",
+    "rank": 3,
+    "special": {
+      "L": 7
+    },
+    "min_level": 43
+  },
+  {
+    "perk": "Grim Reaper's Sprint",
+    "rank": 1,
+    "special": {
+      "L": 7
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Grim Reaper's Sprint",
+    "rank": 2,
+    "special": {
+      "L": 7
+    },
+    "min_level": 19
+  },
+  {
+    "perk": "Grim Reaper's Sprint",
+    "rank": 3,
+    "special": {
+      "L": 7
+    },
+    "min_level": 46
+  },
+  {
+    "perk": "Four Leaf Clover",
+    "rank": 1,
+    "special": {
+      "L": 7
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Four Leaf Clover",
+    "rank": 2,
+    "special": {
+      "L": 7
+    },
+    "min_level": 13
+  },
+  {
+    "perk": "Four Leaf Clover",
+    "rank": 3,
+    "special": {
+      "L": 7
+    },
+    "min_level": 32
+  },
+  {
+    "perk": "Four Leaf Clover",
+    "rank": 4,
+    "special": {
+      "L": 7
+    },
+    "min_level": 48
+  },
+  {
+    "perk": "Ricochet",
+    "rank": 1,
+    "special": {
+      "L": 7
+    },
+    "min_level": 1
+  },
+  {
+    "perk": "Ricochet",
+    "rank": 2,
+    "special": {
+      "L": 7
+    },
+    "min_level": 29
+  },
+  {
+    "perk": "Ricochet",
+    "rank": 3,
+    "special": {
+      "L": 7
+    },
+    "min_level": 50
+  }
+]
